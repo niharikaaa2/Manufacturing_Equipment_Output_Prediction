@@ -303,8 +303,6 @@ Potential extensions include:
 
 ## Project Information
 
-**TNS Capstone Project 1**
-
 **Project:** Manufacturing Equipment Output Prediction with Linear Regression
 
 **Category:** Supervised Learning — Regression
